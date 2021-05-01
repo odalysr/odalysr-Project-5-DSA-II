@@ -1,3 +1,8 @@
+/***************************************************************
+  Student Name: Odalys Rodriguez
+  File Name: lcs.hpp
+  Project 5
+***************************************************************/  
 #ifndef LSC_HPP
 #define LSC_HPP
 #include<string>

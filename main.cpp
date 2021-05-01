@@ -1,3 +1,8 @@
+/***************************************************************
+  Student Name: Odalys Rodriguez
+  File Name: main.cpp
+  Project 5
+***************************************************************/  
 #include"lcs.hpp"
 #include<iostream>
 
